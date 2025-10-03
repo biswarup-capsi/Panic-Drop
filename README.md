@@ -1,6 +1,7 @@
 # Panic Drop
 
 Panic Drop is a fast-paced, 2D dodging game where players test their reflexes by avoiding falling bombs 💣 and bullets 🔫 while collecting reward boxes 🎁 to boost their score. Survive as long as possible in this thrilling, action-packed challenge where the difficulty ramps up over time!
+![alt text](image.png)
 
 ## 🎮 Gameplay
 
@@ -45,7 +46,7 @@ Scoring:-
 Clone or download the project:
 
 ```bash
-    git clone <https://github.com/biswarup-capsi/Panic-Drop.git>
+    git clone https://github.com/biswarup-capsi/Panic-Drop.git
 ```
 
 Open the project in Unity (2021.3 LTS or later recommended).
